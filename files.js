@@ -1,12 +1,10 @@
 var files = {
     "threejs": [
-        "threejs_demo_air",
-        "threejs_demo_air1",
+        "threejs_demo_game",
     ],
     "links": {
-        'showdoc':'https://www.showdoc.cc',
-        'baidu': 'https://www.baidu.com',
-        
+        'showdoc': 'https://www.showdoc.cc',
+        'ECMAScript': 'http://es6.ruanyifeng.com/'
     } 
         
     
