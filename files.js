@@ -4,7 +4,8 @@ var files = {
     ],
     "links": {
         'showdoc': 'https://www.showdoc.cc',
-        'ECMAScript': 'http://es6.ruanyifeng.com/'
+        'ECMAScript': 'http://es6.ruanyifeng.com/',
+	'react小书': 'http://huziketang.mangojuice.top/books/react/lesson1',
     } 
         
     
